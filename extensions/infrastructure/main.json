@@ -268,7 +268,7 @@
     }
   },
   "variables": {
-    "BackendImageName": "DOCKER|fruoccopublic.azurecr.io/rag-backend"
+    "BackendImageName": "DOCKER|fruoccopublic.azurecr.io//rag-backend"
   },
   "resources": [
     {
